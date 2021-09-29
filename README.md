@@ -17,8 +17,8 @@
 ### * Track 1: Cloud Engineering Track
 
 - [ ] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
-    - [ ] A Tour of Qwiklabs and Google Cloud
-    - [ ] Creating a Virtual Machine
+    - [x] A Tour of Qwiklabs and Google Cloud
+    - [x] Creating a Virtual Machine
     - [ ] Getting Started with Cloud Shell and gcloud
     - [ ] Kubernetes Engine: Qwik Start
     - [ ] Set Up Network and HTTP Load Balancers
