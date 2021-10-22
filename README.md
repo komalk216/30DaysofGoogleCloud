@@ -43,13 +43,13 @@
     - [x] Multiple VPC Networks
     - [x] Troubleshooting Workloads on GKE for Site Reliability Engineers
     - [x] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
-- [ ] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
+- [x] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
     - [x] User Authentication: Identity-Aware Proxy
     - [x] Multiple VPC Networks
     - [x] VPC Networks - Controlling Access
     - [x] HTTP Load Balancer with Cloud Armor
-    - [ ] Create an Internal Load Balancer
-    - [ ] Build and Secure Networks in Google Cloud: Challenge Lab
+    - [x] Create an Internal Load Balancer
+    - [x] Build and Secure Networks in Google Cloud: Challenge Lab
 - [x] Deploy to Kubernetes in Google Cloud: [link](https://google.qwiklabs.com/quests/116)
     - [x] Introduction to Docker
     - [x] Kubernetes Engine: Qwik Start
@@ -68,13 +68,13 @@
     - [x] Set Up Network and HTTP Load Balancers
     - [x] Create and Manage Cloud Resources: Challenge Lab
 - [ ] Perform Foundational Data, ML and AI Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/117)
-    - [ ] AI Platform: Qwik Start
-    - [ ] Dataprep: Qwik Start
-    - [ ] Dataflow: Qwik Start - Templates
-    - [ ] Dataproc: Qwik Start - Console
-    - [ ] Cloud Natural Language API: Qwik Start
-    - [ ] Google Cloud Speech API: Qwik Start
-    - [ ] Video Intelligence: Qwik Start
+    - [x] AI Platform: Qwik Start
+    - [x] Dataprep: Qwik Start
+    - [x] Dataflow: Qwik Start - Templates
+    - [x] Dataproc: Qwik Start - Console
+    - [x] Cloud Natural Language API: Qwik Start
+    - [x] Google Cloud Speech API: Qwik Start
+    - [x] Video Intelligence: Qwik Start
     - [ ] Perform Foundational Data, ML and AI Tasks in Google Cloud: Challenge Lab
 - [ ] Insights from Data with BigQuery: [link](https://google.qwiklabs.com/quests/123)
     - [x] Introduction to SQL for BigQuery and Cloud SQL
@@ -100,11 +100,11 @@
     - [ ] Awwvision: Cloud Vision API from a Kubernetes Cluster
     - [ ] Integrate with Machine Learning APIs: Challenge Lab
 - [ ] Explore Machine Learning Models with Explainable AI: [link](https://google.qwiklabs.com/quests/126)
-    - [ ] What is the What-If Tool?
-    - [ ] Getting Started with the What-If Tool
-    - [ ] AI Platform: Qwik Start
+    - [x] What is the What-If Tool?
+    - [x] Getting Started with the What-If Tool
+    - [x] AI Platform: Qwik Start
     - [ ] Using the What-If Tool with Image Recognition Models
-    - [ ] Using the What-if Tool Performance & Fairness Features
+    - [x] Using the What-if Tool Performance & Fairness Features
     - [ ] Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool
     - [ ] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
     - [ ] Explore Machine Learning Models with Explainable AI: Challenge Lab
